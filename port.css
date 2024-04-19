@@ -1,0 +1,156 @@
+
+body{
+  background-color: #070F2B;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  color: whitesmoke;
+  
+}
+/* sec1*/
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+  background-color:#1B1A59;
+}
+
+
+.left{
+  font-size: 1.5rem;
+}
+.right button{
+  margin: 20px;
+}
+
+.right button{
+  background-color: #337A98;
+  color: whitesmoke;
+  border: 2px solid white;
+  border-radius: 4px;
+  width: 125px;
+}
+.right button a{
+  text-decoration: none;
+  color: white;
+}
+
+.firstSection{
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0px;
+}
+.firstSection >div{
+  width: 30%;
+}
+.leftSection{
+  font-size: 1.4rem;
+  margin: 100px;
+}
+.rightSection img{
+  width:100%;
+}
+.but{
+  
+  text-align: inline-block;
+  margin:65px;
+  width: 25px;
+}
+.but button{
+  background-color: #369f98;
+  color: whitesmoke;
+  border: 2px solid white;
+  border-radius: 4px;
+  width: 125px;
+  margin:20px 30px;
+}
+span{
+  color:#9290C3;
+}
+#element{
+  color:#9290C3;
+}
+main hr {
+border: 0px;
+background:#9c97f1;
+height: 1.2px;
+  margin: 40px 84px;
+}
+
+/*sec2*/
+.secondSection{
+  margin: 0px 8%;
+}
+h1{
+  margin: 20px 0px;
+  font-size:40px;
+}
+span1{
+  color: palevioletred
+}
+
+/* sec3*/
+.thirdSection{
+  margin:0px 8%;
+}
+.thirdSection h1{
+  padding: 50px 30px;
+}
+.thirdSection h2{
+  font-size: 20px;
+  padding: 23px 30px;
+}
+.thirdSection h4{
+  font-size: 20px;
+  padding: 23px 30px;
+  color: cadetblue;
+}
+
+
+
+/* sec4*/
+.fourthSection{
+  margin:0px 8%;
+}
+span2{
+  font-size:20px;
+  color: gray;
+}
+.tech{
+  display: flex;
+  justify-content: space-between;
+  font-size:20px;
+}
+
+footer{
+  background-color: #00224D;
+  
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  font-size:20px;
+}
+.footer ul li a{
+  text-decoration: none;
+  color: white;
+}
+ul li{
+  list-style: none;
+}
+.copy{
+  margin: 0vh  70vh;
+  font-size:15px;
+}
+.img{
+  width:100px;
+  border-radius:50%;
+}
+#link{
+  text-decoration: none;
+  color: white;
+}
+h4{
+  font-size:18px;
+}
